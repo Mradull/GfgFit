@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_nav_home1"
+        android:title="Walking"
+        android:icon="@drawable/baseline_directions_walk_24" />
+    <item
+        android:id="@+id/bottom_nav_profile"
+        android:title="Calories"
+        android:icon="@drawable/baseline_local_fire_department_24" />
+    <item
+        android:id="@+id/bottom_nav_feekart"
+        android:title="Cycling"
+        android:icon="@drawable/baseline_two_wheeler_24" />
+    <item
+        android:id="@+id/bottom_nav_logout"
+        android:title="Duration"
+        android:icon="@drawable/baseline_watch_later_24" />
+
+
+</menu>
